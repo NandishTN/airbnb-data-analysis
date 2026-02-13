@@ -52,11 +52,6 @@ The dataset contains Airbnb listing information, including:
 
 ---
 
-## 📊 Dashboard Preview
-(Add screenshot here)
-
----
-
 ## 🚀 How to Run This Project
 1. Clean dataset using Python
 2. Load cleaned CSV into MySQL
@@ -77,7 +72,7 @@ The dataset contains Airbnb listing information, including:
 
 ## 👤 Author
 **Nandish T N**  
-Aspiring Data Analyst  
+Data Analyst  
 
-LinkedIn: (add link)  
-GitHub: (your profile)
+LinkedIn: linkedin.com/in/nandishtn  
+GitHub: https://github.com/NandishTN
